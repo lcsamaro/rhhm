@@ -1,6 +1,4 @@
 # rhhm
 Robin Hood Hashmap
 
-TODO: resizing + smooth resizing
-
-Correct impl at github.com/lcsamaro/minilua
+Correct impl @ github.com/lcsamaro/minilua
